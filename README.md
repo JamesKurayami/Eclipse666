@@ -70,7 +70,7 @@ Upload this `eclipse.php` To Your Target!
 <div align="center">
     <h1>Support Me:</h1>
     <p>BTC Address: <strong>1MQGGVa6APNYWSPHD4NxgMVtYvLDbfLfSF</strong></p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin Logo" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="150">
 </div>
 
 <samp>
